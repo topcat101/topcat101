@@ -43,6 +43,7 @@ GCP
 - KQL
 - Terraform
 - Jacascript
+- SQL
 
 # Operating Systems
 

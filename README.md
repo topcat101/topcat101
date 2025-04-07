@@ -30,8 +30,8 @@ GCP
 # Operating Systems
 
 Windows
-Windows XP/ Vista/ 7/ 8/ 10/ 11
-Windows Server 2012R2/ 2016/ 2019/ 2022
+- XP/ Vista/ 7/ 8/ 10/ 11
+- Server 2012R2/ 2016/ 2019/ 2022
 
 Linux Distro
 Ubuntu/ Linux mint/ Red hat/ Kali

@@ -5,7 +5,7 @@ Welcome to my github profile, where I will be sharing all of the projects I have
 
 # Tools and Technologise
 
-# Cloud
+## Cloud
 
 Azure + MS365
 - Entra ID
@@ -25,7 +25,15 @@ Aws
 GCP
 - VPC
 
-# Programing
+# Programing/ Scripting
+
+- Powershell
+- Bash
+- Python
+- Kotlin
+- KQL
+- Terraform
+- Jacascript
 
 # Operating Systems
 
@@ -34,4 +42,4 @@ Windows
 - Server 2012R2/ 2016/ 2019/ 2022
 
 Linux Distro
-Ubuntu/ Linux mint/ Red hat/ Kali
+- Ubuntu/ Linux mint/ Red hat/ Kali

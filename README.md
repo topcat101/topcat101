@@ -50,6 +50,7 @@ GCP
 Windows
 - XP/ Vista/ 7/ 8/ 10/ 11
 - Server 2012R2/ 2016/ 2019/ 2022
+  - services  
 
 Linux Distro
 - Ubuntu/ Linux mint/ Red hat/ Kali

@@ -1,6 +1,7 @@
 # About-Me
 Hello, my name is Thomas! 
-Welcome to my github profile, where I will be sharing all of the projects I have been working on over the last few years. Including the tech stacks I have touched upon with my experience.
+Welcome to my github profile, where I will be sharing all of the projects I have been working on over my time.
+
 
 ## Color Reference
 
@@ -12,7 +13,7 @@ Welcome to my github profile, where I will be sharing all of the projects I have
 | Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
 
-# Tools and Technologise
+### Tools and Technologise
 
 ## Cloud
 
@@ -24,6 +25,7 @@ Azure + MS365
 - Perview
 - Security portal
 - Exchange
+- Virtual Desktop
 
 Aws
 - S3
@@ -40,7 +42,7 @@ GCP
 - Bash
 - Python
 - Kotlin
-- KQL
+- KQL (Sentinial)
 - Terraform
 - Jacascript
 - SQL
@@ -49,8 +51,7 @@ GCP
 
 Windows
 - XP/ Vista/ 7/ 8/ 10/ 11
-- Server 2012R2/ 2016/ 2019/ 2022
-  - services  
+- Server 2012R2/ 2016/ 2019/ 2022 (AD)
 
 Linux Distro
 - Ubuntu/ Linux mint/ Red hat/ Kali

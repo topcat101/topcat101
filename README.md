@@ -3,8 +3,7 @@ Hello, my name is Thomas!
 Welcome to my github profile, where I will be sharing all of the projects I have been working on over my time.
 
 
-## Color Reference
-
+## Color Reference (Add Time scale, of what I have worked on and what I am working on) - Show with graph!!?!?!? - get a better project than the one I already have!!!
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
@@ -36,7 +35,7 @@ Aws
 GCP
 - VPC
 
-# Programing/ Scripting
+# Programing/ Scripting/ CMDs
 
 - Powershell
 - Bash
@@ -46,6 +45,7 @@ GCP
 - Terraform
 - Jacascript
 - SQL
+- Git
 
 # Operating Systems
 

@@ -26,7 +26,7 @@ Azure + MS365
 - Exchange
 - Virtual Desktop
 
-Aws
+Aws - Sol arct
 - S3
 - Route53
 - CloudFront

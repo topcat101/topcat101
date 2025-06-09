@@ -31,6 +31,7 @@ Aws - Sol arct
 - Route53
 - CloudFront
 - EC2
+- IAM (Policies, Users, Groups)
 
 GCP
 - VPC

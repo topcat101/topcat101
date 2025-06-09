@@ -32,6 +32,7 @@ Aws - Sol arct
 - CloudFront
 - EC2
 - IAM (Policies, Users, Groups)
+- VPC
 
 GCP
 - VPC

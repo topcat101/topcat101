@@ -41,7 +41,7 @@ GCP
 
 - Powershell
 - Bash
-- Python
+- Python (Django)
 - Kotlin
 - KQL (Sentinial)
 - Terraform

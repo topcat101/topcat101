@@ -28,18 +28,17 @@ Welcome to my github profile, where I will be sharing all of the projects I have
 
 **Aws** - Sol arct
 - S3
-- Route53
+- Route53 (A, AAAA, MX, CNAME)
 - CloudFront
-- EC2
+- EC2 (Ubuntu)
 - IAM (Policies, Users, Groups)
 - VPC
 - CLI
 
-In Progress (Implementing in new project)
+In Progress (Implementing in a new project)
 - RDS (MYSQL)
 - SES
 - Lambda
-- 
 
 **GCP**
 - VPC

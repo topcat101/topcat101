@@ -54,6 +54,8 @@ In Progress (Implementing in a new project)
 - Jacascript
 - SQL
 - Git
+- HTML
+- CSS
 
 # Operating Systems
 

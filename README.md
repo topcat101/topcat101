@@ -12,11 +12,11 @@ Welcome to my github profile, where I will be sharing all of the projects I have
 | Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
 
-### Tools and Technologise
+### Tools and Technologies
 
 ## Cloud
 
-Azure + MS365
+**Azure + MS365**
 - Entra ID
 - Intune
 - Sharepoint
@@ -26,15 +26,22 @@ Azure + MS365
 - Exchange
 - Virtual Desktop
 
-Aws - Sol arct
+**Aws** - Sol arct
 - S3
 - Route53
 - CloudFront
 - EC2
 - IAM (Policies, Users, Groups)
 - VPC
+- CLI
 
-GCP
+In Progress (Implementing in new project)
+- RDS (MYSQL)
+- SES
+- Lambda
+- 
+
+**GCP**
 - VPC
 
 # Programing/ Scripting

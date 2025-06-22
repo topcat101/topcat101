@@ -57,6 +57,11 @@ In Progress (Implementing in a new project)
 - HTML
 - CSS
 
+# ITSM
+- JIRA
+- ServiceNow
+- Ninja
+
 # Operating Systems
 
 Windows

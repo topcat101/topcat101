@@ -47,15 +47,13 @@ In Progress (Implementing in a new project)
 
 - Powershell
 - Bash
-- Python (Django)
+- Python (Django & Boto3)
 - Kotlin
 - KQL (Sentinial)
 - Terraform
-- Jacascript
+- JavaScript/ HTML/ CSS (React)
 - SQL
 - Git
-- HTML
-- CSS
 
 # ITSM
 - JIRA

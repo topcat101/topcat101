@@ -32,7 +32,7 @@ Welcome to my github profile, where I will be sharing all of the projects I have
 - CloudFront
 - EC2 (Ubuntu)
 - IAM (Policies, Users, Groups)
-- VPC
+- VPC (IGW, Subnets, Route tables)
 - CLI
 
 In Progress (Implementing in a new project)

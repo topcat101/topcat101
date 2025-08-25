@@ -34,6 +34,8 @@ Welcome to my github profile, where I will be sharing all of the projects I have
 - IAM (Policies, Users, Groups)
 - VPC (IGW, Subnets, Route tables)
 - CLI
+- CloudWatch
+- CloudTrail
 
 In Progress (Implementing in a new project)
 - RDS (MYSQL)

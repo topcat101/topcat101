@@ -34,14 +34,17 @@ Welcome to my github profile, where I will be sharing all of the projects I have
 - IAM (Policies, Users, Groups, Roles)
 - VPC (IGW, Subnets, Route tables)
 - CLI
-- CloudWatch
-- CloudTrail
+- CloudWatch (Alerts, Metrics)
+- CloudTrail (Event Bridge)
+- SNS
 
 In Progress (Implementing in a new project)
 - RDS (MYSQL)
 - SES
 - Lambda
-
+- Organizations
+- AWS Config
+  
 **GCP**
 - VPC
 

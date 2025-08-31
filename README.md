@@ -30,7 +30,7 @@ Welcome to my github profile, where I will be sharing all of the projects I have
 - S3
 - Route53 (A, AAAA, MX, CNAME)
 - CloudFront
-- EC2 (Ubuntu)
+- EC2 (Security Groups, Ubuntu)
 - IAM (Policies, Users, Groups, Roles)
 - VPC (IGW, Subnets, Route tables)
 - CLI

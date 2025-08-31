@@ -35,7 +35,7 @@ Welcome to my github profile, where I will be sharing all of the projects I have
 - VPC (IGW, Subnets, Route tables)
 - CLI
 - CloudWatch (Alerts, Metrics)
-- CloudTrail (Event Bridge)
+- CloudTrail (Event History)
 - SNS
 
 In Progress (Implementing in a new project)

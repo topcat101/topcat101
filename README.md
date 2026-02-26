@@ -1,75 +1,11 @@
-# About-Me
-Hello, my name is Thomas! 
-Welcome to my github profile, where I will be sharing all of the projects I have been working on over my time.
+<h1 align="center">Hi 👋, I'm Thomas</h1>
+<h3 align="center">Im passionate about AWS Cloud</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=topcat101" alt="topcat101" /></a> </p>
 
-## Color Reference (Add Time scale, of what I am using) - Show with graph!!?!?!? - get a better project than the one I already have!!!
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-
-### Tools and Technologies
-
-## Cloud
-
-**Azure + MS365**
-- Entra ID
-- Intune
-- Sharepoint
-- Teams
-- Perview
-- Security portal
-- Exchange
-- Virtual Desktop
-
-**Aws** - Sol arct
-- S3
-- Route53 (A, AAAA, MX, CNAME), FailOver
-- CloudFront
-- EC2 (Security Groups, Ubuntu)
-- IAM (Policies, Users, Groups, Roles)
-- VPC (IGW, Subnets, Route tables, Nat)
-- CLI
-- CloudWatch (Alerts, Metrics)
-- CloudTrail (Event History)
-- SNS
-
-In Progress (Implementing in a new project)
-- RDS (MYSQL)
-- SES
-- Lambda
-- Organizations
-- AWS Config
-  
-**GCP**
-- VPC
-
-# Programing/ Scripting
-
-- Powershell
-- Bash
-- Python (Django & Boto3)
-- Kotlin
-- KQL (Sentinial)
-- Terraform
-- JavaScript/ HTML/ CSS (React)
-- SQL
-- Git
-
-# ITSM
-- JIRA
-- ServiceNow
-- Ninja
-
-# Operating Systems
-
-Windows
-- XP/ Vista/ 7/ 8/ 10/ 11
-- Server 2012R2/ 2016/ 2019/ 2022 (AD)
-
-Linux Distro
-- Ubuntu/ Linux mint/ Red hat/ Kali
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>

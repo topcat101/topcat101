@@ -32,7 +32,7 @@ Welcome to my github profile, where I will be sharing all of the projects I have
 - CloudFront
 - EC2 (Security Groups, Ubuntu)
 - IAM (Policies, Users, Groups, Roles)
-- VPC (IGW, Subnets, Route tables)
+- VPC (IGW, Subnets, Route tables, Nat)
 - CLI
 - CloudWatch (Alerts, Metrics)
 - CloudTrail (Event History)

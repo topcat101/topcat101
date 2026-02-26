@@ -28,7 +28,7 @@ Welcome to my github profile, where I will be sharing all of the projects I have
 
 **Aws** - Sol arct
 - S3
-- Route53 (A, AAAA, MX, CNAME)
+- Route53 (A, AAAA, MX, CNAME), FailOver
 - CloudFront
 - EC2 (Security Groups, Ubuntu)
 - IAM (Policies, Users, Groups, Roles)

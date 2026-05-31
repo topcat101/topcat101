@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=topcat101" alt="topcat101" /></a> </p>
 
-- I'm currently working on [Self Healing AWS Platform CI/CD Observability Kubernetes Automated Remediation](https://github.com/topcat101/Self-Healing-AWS-Platform-CI-CD-Observability-Kubernetes-Automated-Remediation)
+- 🔭 I’m currently working on [Self Healing AWS Platform CI/CD Observability Kubernetes Automated Remediation](https://github.com/topcat101/Self-Healing-AWS-Platform-CI-CD-Observability-Kubernetes-Automated-Remediation)
 - 🔭 I’m also working on [Multi-Account Security & Compliance with AWS Organizations](https://github.com/topcat101/AWS-Projects/tree/main/Multi-Account%20Security%20%26%20Compliance%20with%20AWS%20Organizations)
 
 <h3 align="left">Connect with me:</h3>

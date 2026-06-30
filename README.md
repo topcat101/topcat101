@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">Im passionate about AWS Cloud</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=topcat101" alt="topcat101" /></a> </p>
 
 - 🔭 I'm currently working on my website frontend/ backend & building this platform out further.
 - 🔭 I’m also working on [Self Healing AWS Platform CI/CD Observability Kubernetes Automated Remediation](https://github.com/topcat101/Self-Healing-AWS-Platform-CI-CD-Observability-Kubernetes-Automated-Remediation)
